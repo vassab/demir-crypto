@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cryptogods.life	TRUE	/	FALSE	1999999999	__cfruid	dfdf10dcffc97c056e7f06a165e1b04133af7bfa-1676360765
+www.cryptogods.life	TRUE	/	FALSE	1999999999	vs_uniques_landing_page	eJyLNjI0sTAzMTA0MNeBMs2MLeBMUwMY09DEEMw0tzAFqoAwTUwtjC1iAdGCDcE%3D
+www.cryptogods.life	TRUE	/	FALSE	1999999999	vs_uniques_template_metadata	eJyLNjI0NTIxsjQyN9aBMy0QTCME0zAWANYqCVM%3D
+www.cryptogods.life	TRUE	/	FALSE	1999999999	_kjb_session	5474ce8100d34cab14c681d051d22cf8
+www.cryptogods.life	TRUE	/	FALSE	1999999999	SameSite	None
+
